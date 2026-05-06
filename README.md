@@ -1,8 +1,8 @@
-# 💫 About Me:
-##  About Me<br><br>-  Exploring how data and backend systems actually work (not just using them)<br>-  Using C, Python, and Java beyond basics through hands-on projects  <br>-  Focused on building projects and improving problem-solving
+#  About Me:
+## <br>-  Exploring how data and backend systems actually work (not just using them)<br>-  Using C, Python, and Java beyond basics through hands-on projects  <br>-  Focused on building projects and improving problem-solving
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/camelia-chowdhury-008653301/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/1Ho6JhGGg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/whoiscameliaa?t=gXAU1DmfLoPOlObilK2_ZQ&s=09)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cameliachowdhury12@gmail.com) 
 
 # 💻 Tech Stack:
@@ -10,6 +10,9 @@
 ## 🧠 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-%230074C1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -42,7 +45,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=camelia0011&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=camelia0011&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=camelia0011&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
