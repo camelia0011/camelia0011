@@ -3,7 +3,7 @@
 
 
 ##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/camelia-chowdhury-008653301/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/1Ho6JhGGg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/whoiscameliaa?t=gXAU1DmfLoPOlObilK2_ZQ&s=09)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cameliachowdhury12@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/camelia-chowdhury-008653301/](https://www.linkedin.com/in/camelia-chowdhury-008653301/)) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/1Ho6JhGGg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/whoiscameliaa?t=gXAU1DmfLoPOlObilK2_ZQ&s=09)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cameliachowdhury12@gmail.com) 
 
 #  Tech Stack:
 
