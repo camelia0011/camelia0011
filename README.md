@@ -1,7 +1,3 @@
-#  About Me:
-## <br>-  Exploring how data and backend systems actually work (not just using them)<br>-  Using C, Python, and Java beyond basics through hands-on projects  <br>-  Focused on building projects and improving problem-solving
-
-
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camelia-chowdhury-008653301/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/2k2t2HbsL) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/whoiscameliaa)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cameliachowdhury12@gmail.com) 
 
